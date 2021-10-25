@@ -1,2 +1,2 @@
-# calc3
+# simple calculator with true JS
  
